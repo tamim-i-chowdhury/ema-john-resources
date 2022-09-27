@@ -11,55 +11,5 @@
   margin-bottom: 75px;
 }
 .cart-container {
-  background-color: #ff99004d;
-  position: fixed;
-  left: 1157px;
-}
-.title {
-  font-size: 25px;
-  font-family: "Lato";
-  margin-top: 28px;
-  margin-left: 45px;
-  margin-right: 45px;
-}
-.cart-calculation {
-  margin: 50px 25px;
-}
-.cart-calculation p {
-  font-family: "Lato";
-  font-weight: 500;
-  font-size: 17px;
-  line-height: 20px;
-}
-.cart-calculation h2 {
-  font-family: "Lato";
-  font-weight: 500;
-  font-size: 21px;
-  line-height: 25px;
-  letter-spacing: 0.0015em;
-}
-.button-clear-review{
-    display: flex;
-    flex-direction: column;
-    margin: 45px 15px;
-}
-.clear-all{
-    background-color: #FF3030;
-    border: none;
-    border-radius: 5px;
-    margin-bottom: 15px;
-}
-.clear-all p{
-    color: #FFFFFF;
-    font-size: 17px;
-}
-.review-order{
-    background-color: #FF9900;
-    border: none;
-    border-radius: 5px;
-    margin-bottom: 15px;
-}
-.review-order p{
-    color: #FFFFFF;
-    font-size: 17px;
+  background-color:rgba(255, 153, 0, 0.3);
 }
